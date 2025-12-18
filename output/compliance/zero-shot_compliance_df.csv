@@ -1,0 +1,4 @@
+,Valid Scorer Names,Row Count Proportion,ID Hallucinations,Reasoning: Valid,Reasoning: Missing,Reasoning: Invalid,Hire Factors: Valid,Hire Factors: Missing,Hire Factors: Invalid
+gpt-5,True,98.23,0,1.0,0.0,0.0,1.0,0.0,0.0
+sonnet-4,True,95.31,0,1.0,0.0,0.0,1.0,0.0,0.0
+gpt-41-mini,True,98.23,0,0.986,0.0,0.014,1.0,0.0,0.0

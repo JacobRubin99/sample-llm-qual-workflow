@@ -1,0 +1,12 @@
+,GPT-5,GPT-5,GPT-5,GPT-5,Sonnet 4,Sonnet 4,Sonnet 4,Sonnet 4,GPT 41 Mini,GPT 41 Mini,GPT 41 Mini,GPT 41 Mini
+,Rubric Item,Overall Mean,Overall SD (across resp.),Avg. SD (within resp.),Rubric Item,Overall Mean,Overall SD (across resp.),Avg. SD (within resp.),Rubric Item,Overall Mean,Overall SD (across resp.),Avg. SD (within resp.)
+0,Engagement with Evidence,2.63,1.209,0.308,Engagement with Evidence,2.268,1.051,0.311,Engagement with Evidence,2.461,1.114,0.549
+1,Goal Orientation,2.688,0.773,0.33,Goal Orientation,2.676,0.804,0.426,Goal Orientation,2.957,0.814,0.345
+2,Collaborative Decision-Making,2.747,1.092,0.307,Collaborative Decision-Making,2.548,1.058,0.421,Collaborative Decision-Making,2.219,1.271,0.548
+3,Strategic Planning,2.774,0.868,0.358,Strategic Planning,2.779,0.843,0.423,Strategic Planning,2.788,0.953,0.404
+4,Cultural Responsiveness,0.078,0.268,0.015,Cultural Responsiveness,0.072,0.258,0.014,Cultural Responsiveness,0.071,0.257,0.039
+5,Parent/Community Engagement,0.048,0.213,0.03,Parent/Community Engagement,0.062,0.241,0.039,Parent/Community Engagement,0.104,0.305,0.139
+6,Academic Achievement,0.457,0.498,0.095,Academic Achievement,0.421,0.494,0.118,Academic Achievement,0.445,0.497,0.155
+7,Candidate Experience/Expertise,0.267,0.443,0.071,Candidate Experience/Expertise,0.348,0.476,0.101,Candidate Experience/Expertise,0.309,0.462,0.207
+8,Evaluation,0.367,0.482,0.152,Evaluation,0.388,0.488,0.118,Evaluation,0.217,0.412,0.152
+9,School Culture Fit,0.687,0.464,0.129,School Culture Fit,0.625,0.484,0.133,School Culture Fit,0.582,0.493,0.235
